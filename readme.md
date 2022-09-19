@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm JoshVear</h1>
 <h3 align="center">Just A Shitty YouTube teen</h3>
+<h3 align="center">I'm a high school student who is passionate about computers and programming. I like to play video games, mod, and code in my free time. I have always been a bit of a slacker in school, but with coding I never slack. In the future, I hope to go to a trade school so I can learn how to create programs from scratch and eventually work at a prestigious company as a computer programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acidclown&label=Profile%20views&color=0e75b6&style=flat" alt="acidclown" /> </p>
 
